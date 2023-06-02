@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PE2PDBUrl": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Gus\\Downloads\\UAOneSettings.dll"
+    }
+  }
+}
